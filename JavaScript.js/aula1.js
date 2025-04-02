@@ -11,7 +11,7 @@ let cliente = new Cliente();
 
 cliente.nome =  prompt('Digite o nome o cliente:');
 cliente.idade = prompt('Digite a idade:');
-cliente.cpf = prompt('Digite o seu CPF123323');
+cliente.cpf = prompt('Digite o seu CPF');
 cliente.agencia =prompt('Digite a agencia');
 
 console.log(cliente);
